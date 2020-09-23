@@ -1,0 +1,13 @@
+-NOTE----------------------------------------------------------
+This program uses DMC2 by IzzySoft (http://www.IzzyOnline.com)
+You might have to move DMC2.ocx, Bass.dll & ID3v23x.dll to your
+Windows system directory and register them with regsvr32.exe.
+-NOTE----------------------------------------------------------
+
+To compile an perfect copy of Simple Amp you should load up
+the project group Simple Amp.vbg and compile each of the programs
+(Simple Amp.exe, Hotkey1.exe, Hotkey2.exe, Hotkey3.exe, Hotkey4.exe
+& Hotkey5.exe) into an empty directory and copy the skins folder
+there.
+
+And read readme.txt!
